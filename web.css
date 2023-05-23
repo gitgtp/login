@@ -18,7 +18,7 @@ body {
     background-color: aliceblue;
 }
 
-#first {
+#box {
     margin: auto;
     position: relative;
     top: 70px;
@@ -90,7 +90,7 @@ a {
     text-align: center;
 }
 
-#first:hover {
+#box:hover {
     transition-delay: 9ms;
 
     box-shadow: 10px 10px 100px 10px rgb(235, 240, 240)
